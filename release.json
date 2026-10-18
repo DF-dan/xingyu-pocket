@@ -1,20 +1,21 @@
 {
   "title": "多功能-星语口袋",
-  "version": "1.0",
-  "internal_build": "0.1.0-rc10",
-  "firmware_file": "xingyu-pocket-1.0-full.bin",
-  "firmware_bytes": 4869952,
-  "firmware_sha256": "826f925eeb622b275952605867780a0876de9208ae5c7225760718a0d8f2cb0e",
+  "version": "1.1",
+  "internal_build": "1.1.0-rc7",
+  "firmware_file": "xingyu-pocket-1.1-full.bin",
+  "firmware_bytes": 5628944,
+  "firmware_sha256": "65908a2745475703fc445ee69b682f9744d88c0237266e93b6b0474b2eaabd3c",
   "flash_offset": "0x0",
   "distribution": "documentation, artwork and firmware only; core source private",
   "personal_configuration_included": false,
   "configuration_region": "0x9000-0x30000: all 0xFF in this build-generated merged image",
-  "pairing": "runtime per-device identity and server-provided activation code; each user pairs their own account",
+  "pairing": "runtime per-device identity and service-provided code; each installer pairs their own account",
+  "previous_release": "https://github.com/DF-dan/xingyu-pocket/releases/tag/v1.0",
   "known_limits": [
-    "Optional AQI can show --",
-    "Radio and AI depend on third-party network services",
-    "Portrait effects are deterministic processing, not generative redrawing"
+    "Full installation may reset existing records; new bunny saves are not readable by 1.0",
+    "Radio/AI/weather depend on third-party services; long-radio endurance not newly verified",
+    "Portrait effects are processing, not generative redrawing"
   ],
-  "image_provenance": "Native rc10 LVGL renders with generic fixtures, composed into posters; no personal photos/activation screenshots",
-  "validation": "Existing full build/host evidence and scoped device feedback; not an exhaustive endurance guarantee"
+  "image_provenance": "Native 1.1.0-rc7 UI renders with generic fixtures; no personal portrait, activation screen or device-log image",
+  "validation": "Full build/host checks, 96 native UI states, verified device write/startup and 180-second error-free log; user accepted this refinement; exhaustive endurance not claimed"
 }

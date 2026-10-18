@@ -1991,3 +1991,6 @@ ESP-IDF dependency: components/mqtt/esp-mqtt/LICENSE
 
 Other bundled content
 English text/examples are original project content. The 128 audio clips were synthesized locally with the installed Microsoft Zira desktop voice, not Azure or Edge TTS. No Microsoft voice model/engine is distributed. Microsoft voice/software terms are not replaced by this repository. Default portrait/panorama artwork was generated for this project; no personal photo is bundled. External weather, radio and XiaoZhi services retain their own terms and availability. No affiliation or endorsement is implied.
+
+Version 1.1 original artwork
+Pocket Bunny backgrounds, cartoon rabbit and lighting variants were generated for this project with the built-in image generation tool. They are original project artwork, not copied reference-franchise characters. Public posters use generic native-render fixtures, not personal photographs or activation screens. Font subsets use the existing Source Han Sans CN OFL license above.

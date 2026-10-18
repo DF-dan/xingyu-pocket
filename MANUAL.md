@@ -1,6 +1,6 @@
 <p align="right"><a href="MANUAL.zh_CN.md">简体中文</a> · <strong>English</strong></p>
 
-# Xingyu Pocket: user guide
+# Xingyu Pocket 1.1: user guide
 
 1. Install and start
 Choose Install on the community play page and follow the official flasher. Installation replaces your current play and may clear existing Wi-Fi, portraits, profiles and records. Save anything you need first. This firmware contains no author's pairing details or personal device configuration.
@@ -21,7 +21,10 @@ Choose word cards, listening choices, review or the example challenge. In word c
 Connect to Wi-Fi, open AI Partner, select free chat or a situation and confirm. If an activation code appears, open https://xiaozhi.me on your phone, sign in to your own account, choose Add device and enter the code currently displayed on your own device. Then confirm/retry on the badge. Never use the author's or another person's code or publish your code/token. Starting free chat with OK enables automatic listening after replies; follow the footer to pause/resume or interrupt. English situations provide practice goals: hold Up to change a task and Down to page through longer replies. For a self-hosted service, enter only your own address/token in phone setup.
 
 7. Radio and games
-Radio short Up/Down changes volume, held Down/Up selects next/previous station, OK pauses/resumes and held OK exits. Radio needs a stable network and depends on third-party station availability. Open Tetris, Pocket Bunny or Memory Match from the menu and follow the footer.
+Radio short Up/Down changes volume, held Down/Up selects next/previous station, OK pauses/resumes and held OK exits. Radio needs a stable network and depends on third-party station availability. Open Tetris or Memory Match from the menu and follow the footer. Pocket Bunny has six home actions: explore, care, outfits, decorate, travel album and stickers. Select with Up/Down and enter with OK. In the forest, press OK when the marker enters the green zone, for five attempts. At the lake, watch the flashing pattern, then select symbols with Up/Down and confirm them, for three rounds. Confirm the result to claim stars and any discovered memory; spend stars on cottage decorations, then display or put away owned items. Care, outfits and stickers remain available. Hold OK to return home from a bunny subpage; hold OK on bunny home to return to the app menu.
 
 8. Weather and limits
-Stay on home after connecting for weather; change the city in phone setup. Optional AQI may remain -- in 1.0 without hiding temperature/humidity/wind. Radio can buffer; AI depends on its account/service. This distribution provides firmware and documentation, with core source kept private; it is not a buildable source repository.
+Stay on home after connecting for weather; change the city in phone setup. Optional AQI may remain -- without hiding temperature/humidity/wind. Radio can buffer; AI depends on its account/service. This distribution provides firmware and documentation, with core source kept private; it is not a buildable source repository.
+
+9. Lighting, dimming and older records
+The cottage follows device local time through daylight, twilight and night; an unsynchronized clock uses twilight. Putting the bunny to sleep selects night lighting; waking restores time-based lighting. The screen dims after inactivity and the first key wakes it; adjust the wait and normal brightness in settings. Version 1.1 reads older bunny records, but newly saved bunny records cannot be read by 1.0. A full installation may reset existing data, so save anything you need first.
