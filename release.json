@@ -1,0 +1,20 @@
+{
+  "title": "多功能-星语口袋",
+  "version": "1.0",
+  "internal_build": "0.1.0-rc10",
+  "firmware_file": "xingyu-pocket-1.0-full.bin",
+  "firmware_bytes": 4869952,
+  "firmware_sha256": "826f925eeb622b275952605867780a0876de9208ae5c7225760718a0d8f2cb0e",
+  "flash_offset": "0x0",
+  "distribution": "documentation, artwork and firmware only; core source private",
+  "personal_configuration_included": false,
+  "configuration_region": "0x9000-0x30000: all 0xFF in this build-generated merged image",
+  "pairing": "runtime per-device identity and server-provided activation code; each user pairs their own account",
+  "known_limits": [
+    "Optional AQI can show --",
+    "Radio and AI depend on third-party network services",
+    "Portrait effects are deterministic processing, not generative redrawing"
+  ],
+  "image_provenance": "Native rc10 LVGL renders with generic fixtures, composed into posters; no personal photos/activation screenshots",
+  "validation": "Existing full build/host evidence and scoped device feedback; not an exhaustive endurance guarantee"
+}
