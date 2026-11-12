@@ -45,3 +45,9 @@ The first 64-word catalog is a supplement, not a full course or learning guarant
 
 This repository provides presentation material, documentation and firmware. Core source is private. Binary distribution cannot guarantee resistance to reverse engineering. No private source archive, ELF/MAP debug file, raw log or device-storage dump is included.
 See [checksums](SHA256SUMS), [release details](release.json) and [third-party notices](THIRD_PARTY_NOTICES.txt). Third-party licenses remain in force; the complete firmware is not being relicensed as MIT.
+
+---
+
+Made for a child's curiosity: learn a little, play a little, grow together.
+
+Community: [LINUX DO](https://linux.do/)
